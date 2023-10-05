@@ -6,7 +6,6 @@ let divide = () => {
 console.log(divide());
 
 
-
 let square = (x) => {
     return x * x
 }
